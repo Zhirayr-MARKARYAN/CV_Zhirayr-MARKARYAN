@@ -1,5 +1,4 @@
 # Zhirayr Markaryan
-#### Zhirayr Markaryan
 ### Développeur web JavaScript
 
 ###### 169 Rue Mandron, Résidence Strauss
