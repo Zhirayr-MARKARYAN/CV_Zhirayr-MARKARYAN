@@ -14,9 +14,9 @@
 ###### [*Realisation d'un projet blog d'un ostéopathe:*](https://github.com/jeromeraffin/angular-components)
 ###### [*Realisation d'un projet pour une association:*](https://github.com/LaurentWild/WildAstronaut)
 
-**2002-2004**           *Reprise et poursuite du cursus universitaire en sciences économique*
-**2000-2002**			*Sous-officier dans les radiocommunications de l'armée arménienne*
-**1999-2000**			*Université des Sciences Economiques à Erevan*
+**2002-2004**           *Reprise et poursuite du cursus universitaire en sciences économique*                                                       
+**2000-2002**			*Sous-officier dans les radiocommunications de l'armée arménienne*                             
+**1999-2000**			*Université des Sciences Economiques à Erevan*                        
 **1999**				*Baccalauréat*
 
 
@@ -36,7 +36,7 @@
 
 ### **Expériences professionnelles**
 
-**2007-2009**			*Dépannage informatique chez les particuliers, technique et système*
+**2007-2009**			*Dépannage informatique chez les particuliers, technique et système*                                                      
 **2004-2007**			*Administrateur de réseaux informatiques en entreprise à Erevan*
 
 
